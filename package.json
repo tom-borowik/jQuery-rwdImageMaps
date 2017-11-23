@@ -1,0 +1,9 @@
+{
+  "name": "jQuery-rwdImageMaps",
+  "version": "1.0.0",
+  "description": "Fork of jquery.rwdImageMaps for use with Yarn",
+  "main": "jquery.rwdImageMaps.js",
+  "repository": "https://github.com/tom-borowik/jQuery-rwdImageMaps.git",
+  "author": "Matt Stow",
+  "license": "MIT"
+}
